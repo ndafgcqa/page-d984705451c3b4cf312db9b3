@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f1246072f6ce79438bf5ae54",
+  "owner": "ndafgcqa",
+  "repo": "page-d984705451c3b4cf312db9b3",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d984705451c3b4cf312db9b3",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2b7c3b46b3c8be5b8a740752f7a70b06772d277c1a3ec95d8e68340bf6e246a4",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载提供专业VPN网络加速器服务，安全稳定的客户端下载，多种流量套餐和设备支持。",
+          "AI_DESCRIPTION": "小火箭下载提供专业VPN网络加速器服务，安全稳定的客户端下载，多种流量套餐和设备支持。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\nfont-family: Arial, sans-serif;\nbackground: #f8f9fa;\ncolor: #333;\nline-height: 1.6;\nmargin: 0;\npadding: 0;\n}\nmain {\nmax-width: 1200px;\nmargin: 0 auto;\npadding: 20px;\n}\nh1 {\ncolor: #6b46c4;\nfont-size: 2.5em;\ntext-align: center;\n}\nh2 {\ncolor: #4a0e4e;\nfont-size: 1.8em;\nmargin-top: 40px;\n}\nh3 {\ncolor: #6b46c4;\nfont-size: 1.4em;\n}\n#hero {\nbackground: linear-gradient(135deg, #f0e6ff, #e0d4ff);\npadding: 60px 20px;\ntext-align: center;\n}\n#hero h2 {\nfont-size: 1.5em;\ncolor: #6b46c4;\n}\n#plans {\ndisplay: flex;\nflex-wrap: wrap;\njustify-content: center;\ngap: 20px;\n}\n.card {\nbackground: white;\nborder: 2px solid #d4c4ff;\nborder-radius: 12px;\npadding: 20px;\nwidth: 300px;\nbox-shadow: 0 4px 8px rgba(0,0,0,0.1);\n}\n.card.featured {\nborder-color: #6b46c4;\ntransform: scale(1.05);\n}\n.card h3 {\nfont-size: 1.3em;\ncolor: #6b46c4;\n}\n.card .price {\nfont-size: 1.8em;\ncolor: #6b46c4;\n}\n.card ul {\nlist-style: none;\npadding: 0;\n}\n.card li {\npadding: 8px 0;\n}\n#intro {\npadding: 40px 0;\n}\n#usage {\npadding: 40px 0;\n}\n#faq {\npadding: 40px 0;\n}\n#faq details {\nbackground: #f0e6ff;\npadding: 15px;\nborder-radius: 8px;\nmargin-bottom: 15px;\n}\n#faq summary {\nfont-weight: bold;\ncolor: #6b46c4;\n}\nfooter {\nbackground: #6b46c4;\ncolor: white;\npadding: 30px 20px;\ntext-align: center;\n}\na {\ncolor: #6b46c4;\ntext-decoration: none;\n}\na:hover {\ntext-decoration: underline;\n}\n@media (max-width: 768px) {\n#plans {\nflex-direction: column;\n}\n}\n</style>\n\n\n<main>\n<header>\n<h1>小火箭下载</h1>\n<p>专业VPN加速器 | 安全高效 客户端下载</p>\n</header>\n<section id=\"hero\">\n<h2>畅享全球网络，加速你的生活</h2>\n<p>小火箭下载为您提供稳定可靠的VPN服务，支持多种设备连接，解锁海量内容。</p>\n</section>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>小火箭下载成立于2023年，专注于为用户提供高效的网络加速解决方案。通过先进的节点技术，确保您的上网速度和隐私安全。</p>\n<p>无论是日常浏览、视频观看还是远程办公，小火箭下载都能让您体验流畅无阻。</p>\n</section>\n<section id=\"usage\">\n<h2>使用场景</h2>\n<h3>办公出差</h3>\n<p>稳定连接，避免网络中断，保护办公信息安全。</p>\n<h3>游戏加速</h3>\n<p>旗舰版IPLC专线优化游戏延迟，赢得更多胜利。</p>\n<h3>流媒体观看</h3>\n<p>解锁Netflix、YouTube、Disney+等平台内容。</p>\n<h3>隐私保护</h3>\n<p>加密传输，防止数据泄露。</p>\n</section>\n<section id=\"plans\">\n<h2>套餐对比</h2>\n<div class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"card featured\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</section>\n<section id=\"operation\">\n<h2>操作说明</h2>\n<ol>\n<li>访问官网下载小火箭下载客户端</li>\n<li>安装并打开客户端</li>\n<li>注册账号，选择对应套餐</li>\n<li>选择合适的节点进行连接</li>\n<li>享受高速网络加速</li>\n</ol>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>什么是小火箭下载？</summary>\n<p>小火箭下载是一款专业的VPN网络加速器，提供安全稳定的服务，帮助用户突破地理限制，畅享全球优质网络资源。</p>\n</details>\n<details>\n<summary>如何下载小火箭下载客户端？</summary>\n<p>只需访问官方网站，点击下载按钮，即可获取最新版本的客户端，简单易用。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。</p>\n</details>\n<details>\n<summary>不同套餐有何区别？</summary>\n<p>基础版适合个人使用，旗舰版提供游戏加速和全解锁，团队版适合企业或大量用户。</p>\n</details>\n<details>\n<summary>隐私安全吗？</summary>\n<p>小火箭下载采用加密技术，确保您的上网数据安全，符合隐私保护标准。</p>\n</details>\n<details>\n<summary>如何获取售后支持？</summary>\n<p>旗舰版和团队版提供7x24在线客服支持，专业团队及时解答您的疑问。</p>\n</details>\n</section>\n<footer>\n<p>小火箭下载 | 官方客户端下载 | 官网</p>\n<p>友情链接：机场订阅 | 加速器指南</p>\n<p>© 2024 小火箭下载</p>\n</footer>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "e53f2158d2ac7875a18adc5daee40bc414832b01603b241713c4a56f03257e86",
+          "seo": {
+            "title": "小火箭下载 - VPN加速器 客户端下载 官网",
+            "keywords": "小火箭下载, VPN加速器, 机场订阅, 客户端下载, VPN节点",
+            "description": "小火箭下载提供专业VPN网络加速器服务，安全稳定的客户端下载，多种流量套餐和设备支持。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shanhuakj.com",
+    "host": "p-081b32c51d.shanhuakj.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0ef7849b85b616ee62148dcf1bf5cfce34088299b3900543aff139731862e2f7",
+    "sitemap.xml": "75ed6157a3b08f43e0b0832ef1803b0dbf521ba266bb9d7375682db091ea22db",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "60fa5bdfc560544b324faeb960db2014ced03d9674ca1e1f75888e1375c74b00",
+    "robots.txt": "6d9e0b473614658bef4dec7a0a72f2b3d74bcb7ea2eaa38beaa4ef9d9cfe7a25",
+    "53fe47379841c42c19218206dfef649f.txt": "2aca8b9c108758c71cc5167196d5d2357ddda77e984d3b207136837ccc3d8935"
+  },
+  "revision": "375d74bd13b8329d3e89405489d50baf9728c398811a60724c7c0033e808b045"
+}
